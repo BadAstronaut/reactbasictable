@@ -1,6 +1,16 @@
 .App {
   text-align: center;
 }
+.cuca{
+  background-color: #282c34;
+}
+
+.cucaRow{
+  background-color: #ff5d0a;
+}
+.cucaRow:hover{
+  background-color: #a19792;
+}
 
 .App-logo {
   height: 40vmin;
